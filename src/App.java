@@ -8,7 +8,7 @@ public class App {
                 // instantiate a RockPaperScissorGUI obj
                 RockPaperScissorGUI rockPaperScissorGUI = new RockPaperScissorGUI();
 
-                // display the GUI
+                // display the GUI 
                 rockPaperScissorGUI.setVisible(true);
             }
         });
