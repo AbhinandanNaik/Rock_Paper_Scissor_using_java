@@ -6,7 +6,7 @@ public class RockPaperScissor {
     private static final String[] computerChoices = {"Rock", "Paper", "Scissors"};
 
     public String getComputerChoice() {
-        return computerChoice;
+        return computerChoice; 
     }
 
     public int getComputerScore() {
