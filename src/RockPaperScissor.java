@@ -1,7 +1,7 @@
 import java.util.Random;
 
 // backend
-public class RockPaperScissor {
+public class RockPaperScissor { 
     // all of the choices that a computer can choose
     private static final String[] computerChoices = {"Rock", "Paper", "Scissors"};
 
