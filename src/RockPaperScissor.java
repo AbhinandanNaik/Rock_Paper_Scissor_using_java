@@ -4,7 +4,7 @@ import java.util.Random;
 public class RockPaperScissor { 
     // all of the choices that a computer can choose
     private static final String[] computerChoices = {"Rock", "Paper", "Scissors"};
-
+ 
     public String getComputerChoice() {
         return computerChoice; 
     }
